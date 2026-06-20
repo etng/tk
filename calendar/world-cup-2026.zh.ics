@@ -1,0 +1,2083 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//World Cup Calendar//Auto Results//ZH
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:2026 世界杯
+X-WR-CALDESC:2026 FIFA 世界杯赛程与赛果
+X-PUBLISHED-TTL:PT1H
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+BEGIN:VEVENT
+UID:fifa-2026-760415@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260611T190000Z
+DTEND:20260611T204500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:墨西哥 2-0 南非
+DESCRIPTION:状态：Full Time\n开球：2026-06-12 03:00 UTC+8\n赛果：
+ 墨西哥 2-0 南非\n场馆：Estadio Banorte\, Mexico City\, Mexico\nESP
+ N：https://www.espn.com/soccer/match/_/gameId/760415/south-africa-mexico\
+ nLogo：https://worldcup.837859.xyz/logo.png\n来源为 ESPN 公开数据
+ ，每 30 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760415/south-africa-mexico
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760414@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260612T020000Z
+DTEND:20260612T034500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:韩国 2-1 捷克
+DESCRIPTION:状态：Full Time\n开球：2026-06-12 10:00 UTC+8\n赛果：
+ 韩国 2-1 捷克\n场馆：Estadio Akron\, Guadalajara\, Mexico\nESPN：h
+ ttps://www.espn.com/soccer/match/_/gameId/760414/czechia-south-korea\nLogo
+ ：https://worldcup.837859.xyz/logo.png\n来源为 ESPN 公开数据，每
+  30 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760414/czechia-south-korea
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760416@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260612T190000Z
+DTEND:20260612T204500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:加拿大 - 波黑
+DESCRIPTION:状态：Scheduled\n开球：2026-06-13 03:00 UTC+8\n场馆：B
+ MO Field\, Toronto\, Canada\nESPN：https://www.espn.com/soccer/match/_/ga
+ meId/760416/bosnia-herzegovina-canada\nLogo：https://worldcup.837859.xyz/
+ logo.png\n来源为 ESPN 公开数据，每 30 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760416/bosnia-herzegovina-ca
+ nada
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760417@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260613T010000Z
+DTEND:20260613T024500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:美国 - 巴拉圭
+DESCRIPTION:状态：Scheduled\n开球：2026-06-13 09:00 UTC+8\n场馆：S
+ oFi Stadium\, Inglewood\, California\, USA\nESPN：https://www.espn.com/so
+ ccer/match/_/gameId/760417/paraguay-united-states\nLogo：https://worldcup
+ .837859.xyz/logo.png\n来源为 ESPN 公开数据，每 30 分钟抓取一
+ 次。
+URL:https://www.espn.com/soccer/match/_/gameId/760417/paraguay-united-state
+ s
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760420@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260613T190000Z
+DTEND:20260613T204500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:卡塔尔 - 瑞士
+DESCRIPTION:状态：Scheduled\n开球：2026-06-14 03:00 UTC+8\n场馆：L
+ evi's Stadium\, Santa Clara\, California\, USA\nESPN：https://www.espn.co
+ m/soccer/match/_/gameId/760420/switzerland-qatar\nLogo：https://worldcup.
+ 837859.xyz/logo.png\n来源为 ESPN 公开数据，每 30 分钟抓取一
+ 次。
+URL:https://www.espn.com/soccer/match/_/gameId/760420/switzerland-qatar
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760419@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260613T220000Z
+DTEND:20260613T234500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:巴西 - 摩洛哥
+DESCRIPTION:状态：Scheduled\n开球：2026-06-14 06:00 UTC+8\n场馆：M
+ etLife Stadium\, East Rutherford\, New Jersey\, USA\nESPN：https://www.es
+ pn.com/soccer/match/_/gameId/760419/morocco-brazil\nLogo：https://worldcu
+ p.837859.xyz/logo.png\n来源为 ESPN 公开数据，每 30 分钟抓取
+ 一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760419/morocco-brazil
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760418@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260614T010000Z
+DTEND:20260614T024500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:海地 - 苏格兰
+DESCRIPTION:状态：Scheduled\n开球：2026-06-14 09:00 UTC+8\n场馆：G
+ illette Stadium\, Foxborough\, Massachusetts\, USA\nESPN：https://www.esp
+ n.com/soccer/match/_/gameId/760418/scotland-haiti\nLogo：https://worldcup
+ .837859.xyz/logo.png\n来源为 ESPN 公开数据，每 30 分钟抓取一
+ 次。
+URL:https://www.espn.com/soccer/match/_/gameId/760418/scotland-haiti
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760421@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260614T040000Z
+DTEND:20260614T054500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:澳大利亚 - 土耳其
+DESCRIPTION:状态：Scheduled\n开球：2026-06-14 12:00 UTC+8\n场馆：B
+ C Place\, Vancouver\, Canada\nESPN：https://www.espn.com/soccer/match/_/g
+ ameId/760421/turkiye-australia\nLogo：https://worldcup.837859.xyz/logo.pn
+ g\n来源为 ESPN 公开数据，每 30 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760421/turkiye-australia
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760422@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260614T170000Z
+DTEND:20260614T184500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:德国 - 库拉索
+DESCRIPTION:状态：Scheduled\n开球：2026-06-15 01:00 UTC+8\n场馆：N
+ RG Stadium\, Houston\, Texas\, USA\nESPN：https://www.espn.com/soccer/mat
+ ch/_/gameId/760422/curacao-germany\nLogo：https://worldcup.837859.xyz/log
+ o.png\n来源为 ESPN 公开数据，每 30 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760422/curacao-germany
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760425@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260614T200000Z
+DTEND:20260614T214500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:荷兰 - 日本
+DESCRIPTION:状态：Scheduled\n开球：2026-06-15 04:00 UTC+8\n场馆：A
+ T&T Stadium\, Arlington\, Texas\, USA\nESPN：https://www.espn.com/soccer/
+ match/_/gameId/760425/japan-netherlands\nLogo：https://worldcup.837859.xy
+ z/logo.png\n来源为 ESPN 公开数据，每 30 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760425/japan-netherlands
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760423@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260614T230000Z
+DTEND:20260615T004500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:科特迪瓦 - 厄瓜多尔
+DESCRIPTION:状态：Scheduled\n开球：2026-06-15 07:00 UTC+8\n场馆：L
+ incoln Financial Field\, Philadelphia\, Pennsylvania\, USA\nESPN：https:/
+ /www.espn.com/soccer/match/_/gameId/760423/ecuador-ivory-coast\nLogo：htt
+ ps://worldcup.837859.xyz/logo.png\n来源为 ESPN 公开数据，每 30 
+ 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760423/ecuador-ivory-coast
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760424@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260615T020000Z
+DTEND:20260615T034500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:瑞典 - 突尼斯
+DESCRIPTION:状态：Scheduled\n开球：2026-06-15 10:00 UTC+8\n场馆：E
+ stadio BBVA\, Guadalupe\, Mexico\nESPN：https://www.espn.com/soccer/match
+ /_/gameId/760424/tunisia-sweden\nLogo：https://worldcup.837859.xyz/logo.p
+ ng\n来源为 ESPN 公开数据，每 30 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760424/tunisia-sweden
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760428@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260615T160000Z
+DTEND:20260615T174500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:西班牙 - 佛得角
+DESCRIPTION:状态：Scheduled\n开球：2026-06-16 00:00 UTC+8\n场馆：M
+ ercedes-Benz Stadium\, Atlanta\, Georgia\, USA\nESPN：https://www.espn.co
+ m/soccer/match/_/gameId/760428/cape-verde-spain\nLogo：https://worldcup.8
+ 37859.xyz/logo.png\n来源为 ESPN 公开数据，每 30 分钟抓取一
+ 次。
+URL:https://www.espn.com/soccer/match/_/gameId/760428/cape-verde-spain
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760426@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260615T190000Z
+DTEND:20260615T204500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:比利时 - 埃及
+DESCRIPTION:状态：Scheduled\n开球：2026-06-16 03:00 UTC+8\n场馆：L
+ umen Field\, Seattle\, Washington\, USA\nESPN：https://www.espn.com/socce
+ r/match/_/gameId/760426/egypt-belgium\nLogo：https://worldcup.837859.xyz/
+ logo.png\n来源为 ESPN 公开数据，每 30 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760426/egypt-belgium
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760429@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260615T220000Z
+DTEND:20260615T234500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:沙特阿拉伯 - 乌拉圭
+DESCRIPTION:状态：Scheduled\n开球：2026-06-16 06:00 UTC+8\n场馆：H
+ ard Rock Stadium\, Miami Gardens\, Florida\, USA\nESPN：https://www.espn.
+ com/soccer/match/_/gameId/760429/uruguay-saudi-arabia\nLogo：https://worl
+ dcup.837859.xyz/logo.png\n来源为 ESPN 公开数据，每 30 分钟抓
+ 取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760429/uruguay-saudi-arabia
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760427@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260616T010000Z
+DTEND:20260616T024500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:伊朗 - 新西兰
+DESCRIPTION:状态：Scheduled\n开球：2026-06-16 09:00 UTC+8\n场馆：S
+ oFi Stadium\, Inglewood\, California\, USA\nESPN：https://www.espn.com/so
+ ccer/match/_/gameId/760427/new-zealand-iran\nLogo：https://worldcup.83785
+ 9.xyz/logo.png\n来源为 ESPN 公开数据，每 30 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760427/new-zealand-iran
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760432@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260616T190000Z
+DTEND:20260616T204500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:法国 - 塞内加尔
+DESCRIPTION:状态：Scheduled\n开球：2026-06-17 03:00 UTC+8\n场馆：M
+ etLife Stadium\, East Rutherford\, New Jersey\, USA\nESPN：https://www.es
+ pn.com/soccer/match/_/gameId/760432/senegal-france\nLogo：https://worldcu
+ p.837859.xyz/logo.png\n来源为 ESPN 公开数据，每 30 分钟抓取
+ 一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760432/senegal-france
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760430@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260616T220000Z
+DTEND:20260616T234500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:伊拉克 - 挪威
+DESCRIPTION:状态：Scheduled\n开球：2026-06-17 06:00 UTC+8\n场馆：G
+ illette Stadium\, Foxborough\, Massachusetts\, USA\nESPN：https://www.esp
+ n.com/soccer/match/_/gameId/760430/norway-iraq\nLogo：https://worldcup.83
+ 7859.xyz/logo.png\n来源为 ESPN 公开数据，每 30 分钟抓取一次
+ 。
+URL:https://www.espn.com/soccer/match/_/gameId/760430/norway-iraq
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760433@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260617T010000Z
+DTEND:20260617T024500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:阿根廷 - 阿尔及利亚
+DESCRIPTION:状态：Scheduled\n开球：2026-06-17 09:00 UTC+8\n场馆：G
+ EHA Field at Arrowhead Stadium\, Kansas City\, Missouri\, USA\nESPN：http
+ s://www.espn.com/soccer/match/_/gameId/760433/algeria-argentina\nLogo：ht
+ tps://worldcup.837859.xyz/logo.png\n来源为 ESPN 公开数据，每 30 
+ 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760433/algeria-argentina
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760431@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260617T040000Z
+DTEND:20260617T054500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:奥地利 - 约旦
+DESCRIPTION:状态：Scheduled\n开球：2026-06-17 12:00 UTC+8\n场馆：L
+ evi's Stadium\, Santa Clara\, California\, USA\nESPN：https://www.espn.co
+ m/soccer/match/_/gameId/760431/jordan-austria\nLogo：https://worldcup.837
+ 859.xyz/logo.png\n来源为 ESPN 公开数据，每 30 分钟抓取一次
+ 。
+URL:https://www.espn.com/soccer/match/_/gameId/760431/jordan-austria
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760435@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260617T170000Z
+DTEND:20260617T184500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:葡萄牙 - 刚果（金）
+DESCRIPTION:状态：Scheduled\n开球：2026-06-18 01:00 UTC+8\n场馆：N
+ RG Stadium\, Houston\, Texas\, USA\nESPN：https://www.espn.com/soccer/mat
+ ch/_/gameId/760435/congo-dr-portugal\nLogo：https://worldcup.837859.xyz/l
+ ogo.png\n来源为 ESPN 公开数据，每 30 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760435/congo-dr-portugal
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760437@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260617T200000Z
+DTEND:20260617T214500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:英格兰 - 克罗地亚
+DESCRIPTION:状态：Scheduled\n开球：2026-06-18 04:00 UTC+8\n场馆：A
+ T&T Stadium\, Arlington\, Texas\, USA\nESPN：https://www.espn.com/soccer/
+ match/_/gameId/760437/croatia-england\nLogo：https://worldcup.837859.xyz/
+ logo.png\n来源为 ESPN 公开数据，每 30 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760437/croatia-england
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760434@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260617T230000Z
+DTEND:20260618T004500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:加纳 - 巴拿马
+DESCRIPTION:状态：Scheduled\n开球：2026-06-18 07:00 UTC+8\n场馆：B
+ MO Field\, Toronto\, Canada\nESPN：https://www.espn.com/soccer/match/_/ga
+ meId/760434/panama-ghana\nLogo：https://worldcup.837859.xyz/logo.png\n来
+ 源为 ESPN 公开数据，每 30 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760434/panama-ghana
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760436@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260618T020000Z
+DTEND:20260618T034500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:乌兹别克斯坦 - 哥伦比亚
+DESCRIPTION:状态：Scheduled\n开球：2026-06-18 10:00 UTC+8\n场馆：E
+ stadio Banorte\, Mexico City\, Mexico\nESPN：https://www.espn.com/soccer/
+ match/_/gameId/760436/colombia-uzbekistan\nLogo：https://worldcup.837859.
+ xyz/logo.png\n来源为 ESPN 公开数据，每 30 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760436/colombia-uzbekistan
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760438@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260618T160000Z
+DTEND:20260618T174500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:捷克 - 南非
+DESCRIPTION:状态：Scheduled\n开球：2026-06-19 00:00 UTC+8\n场馆：M
+ ercedes-Benz Stadium\, Atlanta\, Georgia\, USA\nESPN：https://www.espn.co
+ m/soccer/match/_/gameId/760438/south-africa-czechia\nLogo：https://worldc
+ up.837859.xyz/logo.png\n来源为 ESPN 公开数据，每 30 分钟抓取
+ 一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760438/south-africa-czechia
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760439@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260618T190000Z
+DTEND:20260618T204500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:瑞士 - 波黑
+DESCRIPTION:状态：Scheduled\n开球：2026-06-19 03:00 UTC+8\n场馆：S
+ oFi Stadium\, Inglewood\, California\, USA\nESPN：https://www.espn.com/so
+ ccer/match/_/gameId/760439/bosnia-herzegovina-switzerland\nLogo：https://
+ worldcup.837859.xyz/logo.png\n来源为 ESPN 公开数据，每 30 分钟
+ 抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760439/bosnia-herzegovina-sw
+ itzerland
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760440@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260618T220000Z
+DTEND:20260618T234500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:加拿大 - 卡塔尔
+DESCRIPTION:状态：Scheduled\n开球：2026-06-19 06:00 UTC+8\n场馆：B
+ C Place\, Vancouver\, Canada\nESPN：https://www.espn.com/soccer/match/_/g
+ ameId/760440/qatar-canada\nLogo：https://worldcup.837859.xyz/logo.png\n
+ 来源为 ESPN 公开数据，每 30 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760440/qatar-canada
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760441@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260619T010000Z
+DTEND:20260619T024500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:墨西哥 - 韩国
+DESCRIPTION:状态：Scheduled\n开球：2026-06-19 09:00 UTC+8\n场馆：E
+ stadio Akron\, Guadalajara\, Mexico\nESPN：https://www.espn.com/soccer/ma
+ tch/_/gameId/760441/south-korea-mexico\nLogo：https://worldcup.837859.xyz
+ /logo.png\n来源为 ESPN 公开数据，每 30 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760441/south-korea-mexico
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760442@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260619T190000Z
+DTEND:20260619T204500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:美国 - 澳大利亚
+DESCRIPTION:状态：Scheduled\n开球：2026-06-20 03:00 UTC+8\n场馆：L
+ umen Field\, Seattle\, Washington\, USA\nESPN：https://www.espn.com/socce
+ r/match/_/gameId/760442/australia-united-states\nLogo：https://worldcup.8
+ 37859.xyz/logo.png\n来源为 ESPN 公开数据，每 30 分钟抓取一
+ 次。
+URL:https://www.espn.com/soccer/match/_/gameId/760442/australia-united-stat
+ es
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760445@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260619T220000Z
+DTEND:20260619T234500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:苏格兰 - 摩洛哥
+DESCRIPTION:状态：Scheduled\n开球：2026-06-20 06:00 UTC+8\n场馆：G
+ illette Stadium\, Foxborough\, Massachusetts\, USA\nESPN：https://www.esp
+ n.com/soccer/match/_/gameId/760445/morocco-scotland\nLogo：https://worldc
+ up.837859.xyz/logo.png\n来源为 ESPN 公开数据，每 30 分钟抓取
+ 一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760445/morocco-scotland
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760444@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260620T003000Z
+DTEND:20260620T021500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:巴西 - 海地
+DESCRIPTION:状态：Scheduled\n开球：2026-06-20 08:30 UTC+8\n场馆：L
+ incoln Financial Field\, Philadelphia\, Pennsylvania\, USA\nESPN：https:/
+ /www.espn.com/soccer/match/_/gameId/760444/haiti-brazil\nLogo：https://wo
+ rldcup.837859.xyz/logo.png\n来源为 ESPN 公开数据，每 30 分钟抓
+ 取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760444/haiti-brazil
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760443@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260620T030000Z
+DTEND:20260620T044500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:土耳其 - 巴拉圭
+DESCRIPTION:状态：Scheduled\n开球：2026-06-20 11:00 UTC+8\n场馆：L
+ evi's Stadium\, Santa Clara\, California\, USA\nESPN：https://www.espn.co
+ m/soccer/match/_/gameId/760443/paraguay-turkiye\nLogo：https://worldcup.8
+ 37859.xyz/logo.png\n来源为 ESPN 公开数据，每 30 分钟抓取一
+ 次。
+URL:https://www.espn.com/soccer/match/_/gameId/760443/paraguay-turkiye
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760447@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260620T170000Z
+DTEND:20260620T184500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:荷兰 - 瑞典
+DESCRIPTION:状态：Scheduled\n开球：2026-06-21 01:00 UTC+8\n场馆：N
+ RG Stadium\, Houston\, Texas\, USA\nESPN：https://www.espn.com/soccer/mat
+ ch/_/gameId/760447/sweden-netherlands\nLogo：https://worldcup.837859.xyz/
+ logo.png\n来源为 ESPN 公开数据，每 30 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760447/sweden-netherlands
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760448@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260620T200000Z
+DTEND:20260620T214500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:德国 - 科特迪瓦
+DESCRIPTION:状态：Scheduled\n开球：2026-06-21 04:00 UTC+8\n场馆：B
+ MO Field\, Toronto\, Canada\nESPN：https://www.espn.com/soccer/match/_/ga
+ meId/760448/ivory-coast-germany\nLogo：https://worldcup.837859.xyz/logo.p
+ ng\n来源为 ESPN 公开数据，每 30 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760448/ivory-coast-germany
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760446@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260621T000000Z
+DTEND:20260621T014500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:厄瓜多尔 - 库拉索
+DESCRIPTION:状态：Scheduled\n开球：2026-06-21 08:00 UTC+8\n场馆：G
+ EHA Field at Arrowhead Stadium\, Kansas City\, Missouri\, USA\nESPN：http
+ s://www.espn.com/soccer/match/_/gameId/760446/curacao-ecuador\nLogo：http
+ s://worldcup.837859.xyz/logo.png\n来源为 ESPN 公开数据，每 30 分
+ 钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760446/curacao-ecuador
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760449@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260621T040000Z
+DTEND:20260621T054500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:突尼斯 - 日本
+DESCRIPTION:状态：Scheduled\n开球：2026-06-21 12:00 UTC+8\n场馆：E
+ stadio BBVA\, Guadalupe\, Mexico\nESPN：https://www.espn.com/soccer/match
+ /_/gameId/760449/japan-tunisia\nLogo：https://worldcup.837859.xyz/logo.pn
+ g\n来源为 ESPN 公开数据，每 30 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760449/japan-tunisia
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760453@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260621T160000Z
+DTEND:20260621T174500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:西班牙 - 沙特阿拉伯
+DESCRIPTION:状态：Scheduled\n开球：2026-06-22 00:00 UTC+8\n场馆：M
+ ercedes-Benz Stadium\, Atlanta\, Georgia\, USA\nESPN：https://www.espn.co
+ m/soccer/match/_/gameId/760453/saudi-arabia-spain\nLogo：https://worldcup
+ .837859.xyz/logo.png\n来源为 ESPN 公开数据，每 30 分钟抓取一
+ 次。
+URL:https://www.espn.com/soccer/match/_/gameId/760453/saudi-arabia-spain
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760451@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260621T190000Z
+DTEND:20260621T204500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:比利时 - 伊朗
+DESCRIPTION:状态：Scheduled\n开球：2026-06-22 03:00 UTC+8\n场馆：S
+ oFi Stadium\, Inglewood\, California\, USA\nESPN：https://www.espn.com/so
+ ccer/match/_/gameId/760451/iran-belgium\nLogo：https://worldcup.837859.xy
+ z/logo.png\n来源为 ESPN 公开数据，每 30 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760451/iran-belgium
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760450@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260621T220000Z
+DTEND:20260621T234500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:乌拉圭 - 佛得角
+DESCRIPTION:状态：Scheduled\n开球：2026-06-22 06:00 UTC+8\n场馆：H
+ ard Rock Stadium\, Miami Gardens\, Florida\, USA\nESPN：https://www.espn.
+ com/soccer/match/_/gameId/760450/cape-verde-uruguay\nLogo：https://worldc
+ up.837859.xyz/logo.png\n来源为 ESPN 公开数据，每 30 分钟抓取
+ 一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760450/cape-verde-uruguay
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760452@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260622T010000Z
+DTEND:20260622T024500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:新西兰 - 埃及
+DESCRIPTION:状态：Scheduled\n开球：2026-06-22 09:00 UTC+8\n场馆：B
+ C Place\, Vancouver\, Canada\nESPN：https://www.espn.com/soccer/match/_/g
+ ameId/760452/egypt-new-zealand\nLogo：https://worldcup.837859.xyz/logo.pn
+ g\n来源为 ESPN 公开数据，每 30 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760452/egypt-new-zealand
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760456@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260622T170000Z
+DTEND:20260622T184500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:阿根廷 - 奥地利
+DESCRIPTION:状态：Scheduled\n开球：2026-06-23 01:00 UTC+8\n场馆：A
+ T&T Stadium\, Arlington\, Texas\, USA\nESPN：https://www.espn.com/soccer/
+ match/_/gameId/760456/austria-argentina\nLogo：https://worldcup.837859.xy
+ z/logo.png\n来源为 ESPN 公开数据，每 30 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760456/austria-argentina
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760457@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260622T210000Z
+DTEND:20260622T224500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:法国 - 伊拉克
+DESCRIPTION:状态：Scheduled\n开球：2026-06-23 05:00 UTC+8\n场馆：L
+ incoln Financial Field\, Philadelphia\, Pennsylvania\, USA\nESPN：https:/
+ /www.espn.com/soccer/match/_/gameId/760457/iraq-france\nLogo：https://wor
+ ldcup.837859.xyz/logo.png\n来源为 ESPN 公开数据，每 30 分钟抓
+ 取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760457/iraq-france
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760454@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260623T000000Z
+DTEND:20260623T014500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:挪威 - 塞内加尔
+DESCRIPTION:状态：Scheduled\n开球：2026-06-23 08:00 UTC+8\n场馆：M
+ etLife Stadium\, East Rutherford\, New Jersey\, USA\nESPN：https://www.es
+ pn.com/soccer/match/_/gameId/760454/senegal-norway\nLogo：https://worldcu
+ p.837859.xyz/logo.png\n来源为 ESPN 公开数据，每 30 分钟抓取
+ 一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760454/senegal-norway
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760455@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260623T030000Z
+DTEND:20260623T044500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:约旦 - 阿尔及利亚
+DESCRIPTION:状态：Scheduled\n开球：2026-06-23 11:00 UTC+8\n场馆：L
+ evi's Stadium\, Santa Clara\, California\, USA\nESPN：https://www.espn.co
+ m/soccer/match/_/gameId/760455/algeria-jordan\nLogo：https://worldcup.837
+ 859.xyz/logo.png\n来源为 ESPN 公开数据，每 30 分钟抓取一次
+ 。
+URL:https://www.espn.com/soccer/match/_/gameId/760455/algeria-jordan
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760461@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260623T170000Z
+DTEND:20260623T184500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:葡萄牙 - 乌兹别克斯坦
+DESCRIPTION:状态：Scheduled\n开球：2026-06-24 01:00 UTC+8\n场馆：N
+ RG Stadium\, Houston\, Texas\, USA\nESPN：https://www.espn.com/soccer/mat
+ ch/_/gameId/760461/uzbekistan-portugal\nLogo：https://worldcup.837859.xyz
+ /logo.png\n来源为 ESPN 公开数据，每 30 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760461/uzbekistan-portugal
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760458@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260623T200000Z
+DTEND:20260623T214500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:英格兰 - 加纳
+DESCRIPTION:状态：Scheduled\n开球：2026-06-24 04:00 UTC+8\n场馆：G
+ illette Stadium\, Foxborough\, Massachusetts\, USA\nESPN：https://www.esp
+ n.com/soccer/match/_/gameId/760458/ghana-england\nLogo：https://worldcup.
+ 837859.xyz/logo.png\n来源为 ESPN 公开数据，每 30 分钟抓取一
+ 次。
+URL:https://www.espn.com/soccer/match/_/gameId/760458/ghana-england
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760460@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260623T230000Z
+DTEND:20260624T004500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:巴拿马 - 克罗地亚
+DESCRIPTION:状态：Scheduled\n开球：2026-06-24 07:00 UTC+8\n场馆：B
+ MO Field\, Toronto\, Canada\nESPN：https://www.espn.com/soccer/match/_/ga
+ meId/760460/croatia-panama\nLogo：https://worldcup.837859.xyz/logo.png\n
+ 来源为 ESPN 公开数据，每 30 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760460/croatia-panama
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760459@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260624T020000Z
+DTEND:20260624T034500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:哥伦比亚 - 刚果（金）
+DESCRIPTION:状态：Scheduled\n开球：2026-06-24 10:00 UTC+8\n场馆：E
+ stadio Akron\, Guadalajara\, Mexico\nESPN：https://www.espn.com/soccer/ma
+ tch/_/gameId/760459/congo-dr-colombia\nLogo：https://worldcup.837859.xyz/
+ logo.png\n来源为 ESPN 公开数据，每 30 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760459/congo-dr-colombia
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760462@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260624T190000Z
+DTEND:20260624T204500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:波黑 - 卡塔尔
+DESCRIPTION:状态：Scheduled\n开球：2026-06-25 03:00 UTC+8\n场馆：L
+ umen Field\, Seattle\, Washington\, USA\nESPN：https://www.espn.com/socce
+ r/match/_/gameId/760462/qatar-bosnia-herzegovina\nLogo：https://worldcup.
+ 837859.xyz/logo.png\n来源为 ESPN 公开数据，每 30 分钟抓取一
+ 次。
+URL:https://www.espn.com/soccer/match/_/gameId/760462/qatar-bosnia-herzegov
+ ina
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760463@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260624T190000Z
+DTEND:20260624T204500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:瑞士 - 加拿大
+DESCRIPTION:状态：Scheduled\n开球：2026-06-25 03:00 UTC+8\n场馆：B
+ C Place\, Vancouver\, Canada\nESPN：https://www.espn.com/soccer/match/_/g
+ ameId/760463/canada-switzerland\nLogo：https://worldcup.837859.xyz/logo.p
+ ng\n来源为 ESPN 公开数据，每 30 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760463/canada-switzerland
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760464@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260624T220000Z
+DTEND:20260624T234500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:摩洛哥 - 海地
+DESCRIPTION:状态：Scheduled\n开球：2026-06-25 06:00 UTC+8\n场馆：M
+ ercedes-Benz Stadium\, Atlanta\, Georgia\, USA\nESPN：https://www.espn.co
+ m/soccer/match/_/gameId/760464/haiti-morocco\nLogo：https://worldcup.8378
+ 59.xyz/logo.png\n来源为 ESPN 公开数据，每 30 分钟抓取一次
+ 。
+URL:https://www.espn.com/soccer/match/_/gameId/760464/haiti-morocco
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760465@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260624T220000Z
+DTEND:20260624T234500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:苏格兰 - 巴西
+DESCRIPTION:状态：Scheduled\n开球：2026-06-25 06:00 UTC+8\n场馆：H
+ ard Rock Stadium\, Miami Gardens\, Florida\, USA\nESPN：https://www.espn.
+ com/soccer/match/_/gameId/760465/brazil-scotland\nLogo：https://worldcup.
+ 837859.xyz/logo.png\n来源为 ESPN 公开数据，每 30 分钟抓取一
+ 次。
+URL:https://www.espn.com/soccer/match/_/gameId/760465/brazil-scotland
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760467@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260625T010000Z
+DTEND:20260625T024500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:捷克 - 墨西哥
+DESCRIPTION:状态：Scheduled\n开球：2026-06-25 09:00 UTC+8\n场馆：E
+ stadio Banorte\, Mexico City\, Mexico\nESPN：https://www.espn.com/soccer/
+ match/_/gameId/760467/mexico-czechia\nLogo：https://worldcup.837859.xyz/l
+ ogo.png\n来源为 ESPN 公开数据，每 30 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760467/mexico-czechia
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760466@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260625T010000Z
+DTEND:20260625T024500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:南非 - 韩国
+DESCRIPTION:状态：Scheduled\n开球：2026-06-25 09:00 UTC+8\n场馆：E
+ stadio BBVA\, Guadalupe\, Mexico\nESPN：https://www.espn.com/soccer/match
+ /_/gameId/760466/south-korea-south-africa\nLogo：https://worldcup.837859.
+ xyz/logo.png\n来源为 ESPN 公开数据，每 30 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760466/south-korea-south-afr
+ ica
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760473@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260625T200000Z
+DTEND:20260625T214500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:库拉索 - 科特迪瓦
+DESCRIPTION:状态：Scheduled\n开球：2026-06-26 04:00 UTC+8\n场馆：L
+ incoln Financial Field\, Philadelphia\, Pennsylvania\, USA\nESPN：https:/
+ /www.espn.com/soccer/match/_/gameId/760473/ivory-coast-curacao\nLogo：htt
+ ps://worldcup.837859.xyz/logo.png\n来源为 ESPN 公开数据，每 30 
+ 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760473/ivory-coast-curacao
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760468@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260625T200000Z
+DTEND:20260625T214500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:厄瓜多尔 - 德国
+DESCRIPTION:状态：Scheduled\n开球：2026-06-26 04:00 UTC+8\n场馆：M
+ etLife Stadium\, East Rutherford\, New Jersey\, USA\nESPN：https://www.es
+ pn.com/soccer/match/_/gameId/760468/germany-ecuador\nLogo：https://worldc
+ up.837859.xyz/logo.png\n来源为 ESPN 公开数据，每 30 分钟抓取
+ 一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760468/germany-ecuador
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760471@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260625T230000Z
+DTEND:20260626T004500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:日本 - 瑞典
+DESCRIPTION:状态：Scheduled\n开球：2026-06-26 07:00 UTC+8\n场馆：A
+ T&T Stadium\, Arlington\, Texas\, USA\nESPN：https://www.espn.com/soccer/
+ match/_/gameId/760471/sweden-japan\nLogo：https://worldcup.837859.xyz/log
+ o.png\n来源为 ESPN 公开数据，每 30 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760471/sweden-japan
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760472@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260625T230000Z
+DTEND:20260626T004500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:突尼斯 - 荷兰
+DESCRIPTION:状态：Scheduled\n开球：2026-06-26 07:00 UTC+8\n场馆：G
+ EHA Field at Arrowhead Stadium\, Kansas City\, Missouri\, USA\nESPN：http
+ s://www.espn.com/soccer/match/_/gameId/760472/netherlands-tunisia\nLogo：
+ https://worldcup.837859.xyz/logo.png\n来源为 ESPN 公开数据，每 30
+  分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760472/netherlands-tunisia
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760469@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260626T020000Z
+DTEND:20260626T034500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:巴拉圭 - 澳大利亚
+DESCRIPTION:状态：Scheduled\n开球：2026-06-26 10:00 UTC+8\n场馆：L
+ evi's Stadium\, Santa Clara\, California\, USA\nESPN：https://www.espn.co
+ m/soccer/match/_/gameId/760469/australia-paraguay\nLogo：https://worldcup
+ .837859.xyz/logo.png\n来源为 ESPN 公开数据，每 30 分钟抓取一
+ 次。
+URL:https://www.espn.com/soccer/match/_/gameId/760469/australia-paraguay
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760470@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260626T020000Z
+DTEND:20260626T034500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:土耳其 - 美国
+DESCRIPTION:状态：Scheduled\n开球：2026-06-26 10:00 UTC+8\n场馆：S
+ oFi Stadium\, Inglewood\, California\, USA\nESPN：https://www.espn.com/so
+ ccer/match/_/gameId/760470/united-states-turkiye\nLogo：https://worldcup.
+ 837859.xyz/logo.png\n来源为 ESPN 公开数据，每 30 分钟抓取一
+ 次。
+URL:https://www.espn.com/soccer/match/_/gameId/760470/united-states-turkiye
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760475@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260626T190000Z
+DTEND:20260626T204500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:挪威 - 法国
+DESCRIPTION:状态：Scheduled\n开球：2026-06-27 03:00 UTC+8\n场馆：G
+ illette Stadium\, Foxborough\, Massachusetts\, USA\nESPN：https://www.esp
+ n.com/soccer/match/_/gameId/760475/france-norway\nLogo：https://worldcup.
+ 837859.xyz/logo.png\n来源为 ESPN 公开数据，每 30 分钟抓取一
+ 次。
+URL:https://www.espn.com/soccer/match/_/gameId/760475/france-norway
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760474@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260626T190000Z
+DTEND:20260626T204500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:塞内加尔 - 伊拉克
+DESCRIPTION:状态：Scheduled\n开球：2026-06-27 03:00 UTC+8\n场馆：B
+ MO Field\, Toronto\, Canada\nESPN：https://www.espn.com/soccer/match/_/ga
+ meId/760474/iraq-senegal\nLogo：https://worldcup.837859.xyz/logo.png\n来
+ 源为 ESPN 公开数据，每 30 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760474/iraq-senegal
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760478@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260627T000000Z
+DTEND:20260627T014500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:佛得角 - 沙特阿拉伯
+DESCRIPTION:状态：Scheduled\n开球：2026-06-27 08:00 UTC+8\n场馆：N
+ RG Stadium\, Houston\, Texas\, USA\nESPN：https://www.espn.com/soccer/mat
+ ch/_/gameId/760478/saudi-arabia-cape-verde\nLogo：https://worldcup.837859
+ .xyz/logo.png\n来源为 ESPN 公开数据，每 30 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760478/saudi-arabia-cape-ver
+ de
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760479@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260627T000000Z
+DTEND:20260627T014500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:乌拉圭 - 西班牙
+DESCRIPTION:状态：Scheduled\n开球：2026-06-27 08:00 UTC+8\n场馆：E
+ stadio Akron\, Guadalajara\, Mexico\nESPN：https://www.espn.com/soccer/ma
+ tch/_/gameId/760479/spain-uruguay\nLogo：https://worldcup.837859.xyz/logo
+ .png\n来源为 ESPN 公开数据，每 30 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760479/spain-uruguay
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760476@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260627T030000Z
+DTEND:20260627T044500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:埃及 - 伊朗
+DESCRIPTION:状态：Scheduled\n开球：2026-06-27 11:00 UTC+8\n场馆：L
+ umen Field\, Seattle\, Washington\, USA\nESPN：https://www.espn.com/socce
+ r/match/_/gameId/760476/iran-egypt\nLogo：https://worldcup.837859.xyz/log
+ o.png\n来源为 ESPN 公开数据，每 30 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760476/iran-egypt
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760477@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260627T030000Z
+DTEND:20260627T044500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:新西兰 - 比利时
+DESCRIPTION:状态：Scheduled\n开球：2026-06-27 11:00 UTC+8\n场馆：B
+ C Place\, Vancouver\, Canada\nESPN：https://www.espn.com/soccer/match/_/g
+ ameId/760477/belgium-new-zealand\nLogo：https://worldcup.837859.xyz/logo.
+ png\n来源为 ESPN 公开数据，每 30 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760477/belgium-new-zealand
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760480@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260627T210000Z
+DTEND:20260627T224500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:克罗地亚 - 加纳
+DESCRIPTION:状态：Scheduled\n开球：2026-06-28 05:00 UTC+8\n场馆：L
+ incoln Financial Field\, Philadelphia\, Pennsylvania\, USA\nESPN：https:/
+ /www.espn.com/soccer/match/_/gameId/760480/ghana-croatia\nLogo：https://w
+ orldcup.837859.xyz/logo.png\n来源为 ESPN 公开数据，每 30 分钟
+ 抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760480/ghana-croatia
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760485@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260627T210000Z
+DTEND:20260627T224500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:巴拿马 - 英格兰
+DESCRIPTION:状态：Scheduled\n开球：2026-06-28 05:00 UTC+8\n场馆：M
+ etLife Stadium\, East Rutherford\, New Jersey\, USA\nESPN：https://www.es
+ pn.com/soccer/match/_/gameId/760485/england-panama\nLogo：https://worldcu
+ p.837859.xyz/logo.png\n来源为 ESPN 公开数据，每 30 分钟抓取
+ 一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760485/england-panama
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760481@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260627T233000Z
+DTEND:20260628T011500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:哥伦比亚 - 葡萄牙
+DESCRIPTION:状态：Scheduled\n开球：2026-06-28 07:30 UTC+8\n场馆：H
+ ard Rock Stadium\, Miami Gardens\, Florida\, USA\nESPN：https://www.espn.
+ com/soccer/match/_/gameId/760481/portugal-colombia\nLogo：https://worldcu
+ p.837859.xyz/logo.png\n来源为 ESPN 公开数据，每 30 分钟抓取
+ 一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760481/portugal-colombia
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760482@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260627T233000Z
+DTEND:20260628T011500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:刚果（金） - 乌兹别克斯坦
+DESCRIPTION:状态：Scheduled\n开球：2026-06-28 07:30 UTC+8\n场馆：M
+ ercedes-Benz Stadium\, Atlanta\, Georgia\, USA\nESPN：https://www.espn.co
+ m/soccer/match/_/gameId/760482/uzbekistan-congo-dr\nLogo：https://worldcu
+ p.837859.xyz/logo.png\n来源为 ESPN 公开数据，每 30 分钟抓取
+ 一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760482/uzbekistan-congo-dr
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760484@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260628T020000Z
+DTEND:20260628T034500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:阿尔及利亚 - 奥地利
+DESCRIPTION:状态：Scheduled\n开球：2026-06-28 10:00 UTC+8\n场馆：G
+ EHA Field at Arrowhead Stadium\, Kansas City\, Missouri\, USA\nESPN：http
+ s://www.espn.com/soccer/match/_/gameId/760484/austria-algeria\nLogo：http
+ s://worldcup.837859.xyz/logo.png\n来源为 ESPN 公开数据，每 30 分
+ 钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760484/austria-algeria
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760483@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260628T020000Z
+DTEND:20260628T034500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:约旦 - 阿根廷
+DESCRIPTION:状态：Scheduled\n开球：2026-06-28 10:00 UTC+8\n场馆：A
+ T&T Stadium\, Arlington\, Texas\, USA\nESPN：https://www.espn.com/soccer/
+ match/_/gameId/760483/argentina-jordan\nLogo：https://worldcup.837859.xyz
+ /logo.png\n来源为 ESPN 公开数据，每 30 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760483/argentina-jordan
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760486@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260628T190000Z
+DTEND:20260628T204500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:A组第2 - B组第2
+DESCRIPTION:状态：Scheduled\n开球：2026-06-29 03:00 UTC+8\n场馆：S
+ oFi Stadium\, Inglewood\, California\, USA\nESPN：https://www.espn.com/so
+ ccer/match/_/gameId/760486/group-b-2nd-place-group-a-2nd-place\nLogo：htt
+ ps://worldcup.837859.xyz/logo.png\n来源为 ESPN 公开数据，每 30 
+ 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760486/group-b-2nd-place-gro
+ up-a-2nd-place
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760487@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260629T170000Z
+DTEND:20260629T184500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:C组第1 - F组第2
+DESCRIPTION:状态：Scheduled\n开球：2026-06-30 01:00 UTC+8\n场馆：N
+ RG Stadium\, Houston\, Texas\, USA\nESPN：https://www.espn.com/soccer/mat
+ ch/_/gameId/760487/group-f-2nd-place-group-c-winner\nLogo：https://worldc
+ up.837859.xyz/logo.png\n来源为 ESPN 公开数据，每 30 分钟抓取
+ 一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760487/group-f-2nd-place-gro
+ up-c-winner
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760489@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260629T203000Z
+DTEND:20260629T221500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:E组第1 - 小组第三
+DESCRIPTION:状态：Scheduled\n开球：2026-06-30 04:30 UTC+8\n场馆：G
+ illette Stadium\, Foxborough\, Massachusetts\, USA\nESPN：https://www.esp
+ n.com/soccer/match/_/gameId/760489/third-place-group-abcdf-group-e-winner\
+ nLogo：https://worldcup.837859.xyz/logo.png\n来源为 ESPN 公开数据
+ ，每 30 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760489/third-place-group-abc
+ df-group-e-winner
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760488@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260630T010000Z
+DTEND:20260630T024500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:F组第1 - C组第2
+DESCRIPTION:状态：Scheduled\n开球：2026-06-30 09:00 UTC+8\n场馆：E
+ stadio BBVA\, Guadalupe\, Mexico\nESPN：https://www.espn.com/soccer/match
+ /_/gameId/760488/group-c-2nd-place-group-f-winner\nLogo：https://worldcup
+ .837859.xyz/logo.png\n来源为 ESPN 公开数据，每 30 分钟抓取一
+ 次。
+URL:https://www.espn.com/soccer/match/_/gameId/760488/group-c-2nd-place-gro
+ up-f-winner
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760490@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260630T170000Z
+DTEND:20260630T184500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:E组第2 - I组第2
+DESCRIPTION:状态：Scheduled\n开球：2026-07-01 01:00 UTC+8\n场馆：A
+ T&T Stadium\, Arlington\, Texas\, USA\nESPN：https://www.espn.com/soccer/
+ match/_/gameId/760490/group-i-2nd-place-group-e-2nd-place\nLogo：https://
+ worldcup.837859.xyz/logo.png\n来源为 ESPN 公开数据，每 30 分钟
+ 抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760490/group-i-2nd-place-gro
+ up-e-2nd-place
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760492@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260630T210000Z
+DTEND:20260630T224500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:I组第1 - 小组第三
+DESCRIPTION:状态：Scheduled\n开球：2026-07-01 05:00 UTC+8\n场馆：M
+ etLife Stadium\, East Rutherford\, New Jersey\, USA\nESPN：https://www.es
+ pn.com/soccer/match/_/gameId/760492/third-place-group-cdfgh-group-i-winner
+ \nLogo：https://worldcup.837859.xyz/logo.png\n来源为 ESPN 公开数据
+ ，每 30 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760492/third-place-group-cdf
+ gh-group-i-winner
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760491@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260701T010000Z
+DTEND:20260701T024500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:A组第1 - 小组第三
+DESCRIPTION:状态：Scheduled\n开球：2026-07-01 09:00 UTC+8\n场馆：E
+ stadio Banorte\, Mexico City\, Mexico\nESPN：https://www.espn.com/soccer/
+ match/_/gameId/760491/third-place-group-cefhi-group-a-winner\nLogo：https
+ ://worldcup.837859.xyz/logo.png\n来源为 ESPN 公开数据，每 30 分
+ 钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760491/third-place-group-cef
+ hi-group-a-winner
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760495@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260701T160000Z
+DTEND:20260701T174500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:L组第1 - 小组第三
+DESCRIPTION:状态：Scheduled\n开球：2026-07-02 00:00 UTC+8\n场馆：M
+ ercedes-Benz Stadium\, Atlanta\, Georgia\, USA\nESPN：https://www.espn.co
+ m/soccer/match/_/gameId/760495/third-place-group-ehijk-group-l-winner\nLog
+ o：https://worldcup.837859.xyz/logo.png\n来源为 ESPN 公开数据，
+ 每 30 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760495/third-place-group-ehi
+ jk-group-l-winner
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760493@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260701T200000Z
+DTEND:20260701T214500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:G组第1 - 小组第三
+DESCRIPTION:状态：Scheduled\n开球：2026-07-02 04:00 UTC+8\n场馆：L
+ umen Field\, Seattle\, Washington\, USA\nESPN：https://www.espn.com/socce
+ r/match/_/gameId/760493/third-place-group-aehij-group-g-winner\nLogo：htt
+ ps://worldcup.837859.xyz/logo.png\n来源为 ESPN 公开数据，每 30 
+ 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760493/third-place-group-aeh
+ ij-group-g-winner
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760494@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260702T000000Z
+DTEND:20260702T014500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:D组第1 - 小组第三
+DESCRIPTION:状态：Scheduled\n开球：2026-07-02 08:00 UTC+8\n场馆：L
+ evi's Stadium\, Santa Clara\, California\, USA\nESPN：https://www.espn.co
+ m/soccer/match/_/gameId/760494/third-place-group-befij-group-d-winner\nLog
+ o：https://worldcup.837859.xyz/logo.png\n来源为 ESPN 公开数据，
+ 每 30 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760494/third-place-group-bef
+ ij-group-d-winner
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760497@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260702T190000Z
+DTEND:20260702T204500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:H组第1 - J组第2
+DESCRIPTION:状态：Scheduled\n开球：2026-07-03 03:00 UTC+8\n场馆：S
+ oFi Stadium\, Inglewood\, California\, USA\nESPN：https://www.espn.com/so
+ ccer/match/_/gameId/760497/group-j-2nd-place-group-h-winner\nLogo：https:
+ //worldcup.837859.xyz/logo.png\n来源为 ESPN 公开数据，每 30 分
+ 钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760497/group-j-2nd-place-gro
+ up-h-winner
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760496@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260702T230000Z
+DTEND:20260703T004500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:K组第2 - L组第2
+DESCRIPTION:状态：Scheduled\n开球：2026-07-03 07:00 UTC+8\n场馆：B
+ MO Field\, Toronto\, Canada\nESPN：https://www.espn.com/soccer/match/_/ga
+ meId/760496/group-l-2nd-place-group-k-2nd-place\nLogo：https://worldcup.8
+ 37859.xyz/logo.png\n来源为 ESPN 公开数据，每 30 分钟抓取一
+ 次。
+URL:https://www.espn.com/soccer/match/_/gameId/760496/group-l-2nd-place-gro
+ up-k-2nd-place
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760498@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260703T030000Z
+DTEND:20260703T044500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:B组第1 - 小组第三
+DESCRIPTION:状态：Scheduled\n开球：2026-07-03 11:00 UTC+8\n场馆：B
+ C Place\, Vancouver\, Canada\nESPN：https://www.espn.com/soccer/match/_/g
+ ameId/760498/third-place-group-efgij-group-b-winner\nLogo：https://worldc
+ up.837859.xyz/logo.png\n来源为 ESPN 公开数据，每 30 分钟抓取
+ 一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760498/third-place-group-efg
+ ij-group-b-winner
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760499@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260703T180000Z
+DTEND:20260703T194500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:D组第2 - G组第2
+DESCRIPTION:状态：Scheduled\n开球：2026-07-04 02:00 UTC+8\n场馆：A
+ T&T Stadium\, Arlington\, Texas\, USA\nESPN：https://www.espn.com/soccer/
+ match/_/gameId/760499/group-g-2nd-place-group-d-2nd-place\nLogo：https://
+ worldcup.837859.xyz/logo.png\n来源为 ESPN 公开数据，每 30 分钟
+ 抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760499/group-g-2nd-place-gro
+ up-d-2nd-place
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760500@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260703T220000Z
+DTEND:20260703T234500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:J组第1 - H组第2
+DESCRIPTION:状态：Scheduled\n开球：2026-07-04 06:00 UTC+8\n场馆：H
+ ard Rock Stadium\, Miami Gardens\, Florida\, USA\nESPN：https://www.espn.
+ com/soccer/match/_/gameId/760500/group-h-2nd-place-group-j-winner\nLogo：
+ https://worldcup.837859.xyz/logo.png\n来源为 ESPN 公开数据，每 30
+  分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760500/group-h-2nd-place-gro
+ up-j-winner
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760501@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260704T013000Z
+DTEND:20260704T031500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:K组第1 - 小组第三
+DESCRIPTION:状态：Scheduled\n开球：2026-07-04 09:30 UTC+8\n场馆：G
+ EHA Field at Arrowhead Stadium\, Kansas City\, Missouri\, USA\nESPN：http
+ s://www.espn.com/soccer/match/_/gameId/760501/third-place-group-deijl-grou
+ p-k-winner\nLogo：https://worldcup.837859.xyz/logo.png\n来源为 ESPN 
+ 公开数据，每 30 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760501/third-place-group-dei
+ jl-group-k-winner
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760502@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260704T170000Z
+DTEND:20260704T184500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:32强赛胜者 - 32强赛胜者
+DESCRIPTION:状态：Scheduled\n开球：2026-07-05 01:00 UTC+8\n场馆：N
+ RG Stadium\, Houston\, Texas\, USA\nESPN：https://www.espn.com/soccer/mat
+ ch/_/gameId/760502/round-of-32-3-winner-round-of-32-1-winner\nLogo：https
+ ://worldcup.837859.xyz/logo.png\n来源为 ESPN 公开数据，每 30 分
+ 钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760502/round-of-32-3-winner-
+ round-of-32-1-winner
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760503@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260704T210000Z
+DTEND:20260704T224500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:32强赛胜者 - 32强赛胜者
+DESCRIPTION:状态：Scheduled\n开球：2026-07-05 05:00 UTC+8\n场馆：L
+ incoln Financial Field\, Philadelphia\, Pennsylvania\, USA\nESPN：https:/
+ /www.espn.com/soccer/match/_/gameId/760503/round-of-32-5-winner-round-of-3
+ 2-2-winner\nLogo：https://worldcup.837859.xyz/logo.png\n来源为 ESPN 
+ 公开数据，每 30 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760503/round-of-32-5-winner-
+ round-of-32-2-winner
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760504@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260705T200000Z
+DTEND:20260705T214500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:32强赛胜者 - 32强赛胜者
+DESCRIPTION:状态：Scheduled\n开球：2026-07-06 04:00 UTC+8\n场馆：M
+ etLife Stadium\, East Rutherford\, New Jersey\, USA\nESPN：https://www.es
+ pn.com/soccer/match/_/gameId/760504/round-of-32-6-winner-round-of-32-4-win
+ ner\nLogo：https://worldcup.837859.xyz/logo.png\n来源为 ESPN 公开数
+ 据，每 30 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760504/round-of-32-6-winner-
+ round-of-32-4-winner
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760505@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260706T000000Z
+DTEND:20260706T014500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:32强赛胜者 - 32强赛胜者
+DESCRIPTION:状态：Scheduled\n开球：2026-07-06 08:00 UTC+8\n场馆：E
+ stadio Banorte\, Mexico City\, Mexico\nESPN：https://www.espn.com/soccer/
+ match/_/gameId/760505/round-of-32-8-winner-round-of-32-7-winner\nLogo：ht
+ tps://worldcup.837859.xyz/logo.png\n来源为 ESPN 公开数据，每 30 
+ 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760505/round-of-32-8-winner-
+ round-of-32-7-winner
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760506@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260706T190000Z
+DTEND:20260706T204500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:32强赛胜者 - 32强赛胜者
+DESCRIPTION:状态：Scheduled\n开球：2026-07-07 03:00 UTC+8\n场馆：A
+ T&T Stadium\, Arlington\, Texas\, USA\nESPN：https://www.espn.com/soccer/
+ match/_/gameId/760506/round-of-32-12-winner-round-of-32-11-winner\nLogo：
+ https://worldcup.837859.xyz/logo.png\n来源为 ESPN 公开数据，每 30
+  分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760506/round-of-32-12-winner
+ -round-of-32-11-winner
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760507@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260707T000000Z
+DTEND:20260707T014500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:32强赛胜者 - 32强赛胜者
+DESCRIPTION:状态：Scheduled\n开球：2026-07-07 08:00 UTC+8\n场馆：L
+ umen Field\, Seattle\, Washington\, USA\nESPN：https://www.espn.com/socce
+ r/match/_/gameId/760507/round-of-32-10-winner-round-of-32-9-winner\nLogo
+ ：https://worldcup.837859.xyz/logo.png\n来源为 ESPN 公开数据，每
+  30 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760507/round-of-32-10-winner
+ -round-of-32-9-winner
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760509@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260707T160000Z
+DTEND:20260707T174500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:32强赛胜者 - 32强赛胜者
+DESCRIPTION:状态：Scheduled\n开球：2026-07-08 00:00 UTC+8\n场馆：M
+ ercedes-Benz Stadium\, Atlanta\, Georgia\, USA\nESPN：https://www.espn.co
+ m/soccer/match/_/gameId/760509/round-of-32-16-winner-round-of-32-14-winner
+ \nLogo：https://worldcup.837859.xyz/logo.png\n来源为 ESPN 公开数据
+ ，每 30 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760509/round-of-32-16-winner
+ -round-of-32-14-winner
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760508@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260707T200000Z
+DTEND:20260707T214500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:32强赛胜者 - 32强赛胜者
+DESCRIPTION:状态：Scheduled\n开球：2026-07-08 04:00 UTC+8\n场馆：B
+ C Place\, Vancouver\, Canada\nESPN：https://www.espn.com/soccer/match/_/g
+ ameId/760508/round-of-32-15-winner-round-of-32-13-winner\nLogo：https://w
+ orldcup.837859.xyz/logo.png\n来源为 ESPN 公开数据，每 30 分钟
+ 抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760508/round-of-32-15-winner
+ -round-of-32-13-winner
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760510@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260709T200000Z
+DTEND:20260709T214500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:16强赛1胜者 - 16强赛2胜者
+DESCRIPTION:状态：Scheduled\n开球：2026-07-10 04:00 UTC+8\n场馆：G
+ illette Stadium\, Foxborough\, Massachusetts\, USA\nESPN：https://www.esp
+ n.com/soccer/match/_/gameId/760510/round-of-16-2-winner-round-of-16-1-winn
+ er\nLogo：https://worldcup.837859.xyz/logo.png\n来源为 ESPN 公开数
+ 据，每 30 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760510/round-of-16-2-winner-
+ round-of-16-1-winner
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760511@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260710T190000Z
+DTEND:20260710T204500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:16强赛5胜者 - 16强赛6胜者
+DESCRIPTION:状态：Scheduled\n开球：2026-07-11 03:00 UTC+8\n场馆：S
+ oFi Stadium\, Inglewood\, California\, USA\nESPN：https://www.espn.com/so
+ ccer/match/_/gameId/760511/round-of-16-6-winner-round-of-16-5-winner\nLogo
+ ：https://worldcup.837859.xyz/logo.png\n来源为 ESPN 公开数据，每
+  30 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760511/round-of-16-6-winner-
+ round-of-16-5-winner
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760512@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260711T210000Z
+DTEND:20260711T224500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:16强赛3胜者 - 16强赛4胜者
+DESCRIPTION:状态：Scheduled\n开球：2026-07-12 05:00 UTC+8\n场馆：H
+ ard Rock Stadium\, Miami Gardens\, Florida\, USA\nESPN：https://www.espn.
+ com/soccer/match/_/gameId/760512/round-of-16-4-winner-round-of-16-3-winner
+ \nLogo：https://worldcup.837859.xyz/logo.png\n来源为 ESPN 公开数据
+ ，每 30 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760512/round-of-16-4-winner-
+ round-of-16-3-winner
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760513@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260712T010000Z
+DTEND:20260712T024500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:16强赛7胜者 - 16强赛8胜者
+DESCRIPTION:状态：Scheduled\n开球：2026-07-12 09:00 UTC+8\n场馆：G
+ EHA Field at Arrowhead Stadium\, Kansas City\, Missouri\, USA\nESPN：http
+ s://www.espn.com/soccer/match/_/gameId/760513/round-of-16-8-winner-round-o
+ f-16-7-winner\nLogo：https://worldcup.837859.xyz/logo.png\n来源为 ESPN
+  公开数据，每 30 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760513/round-of-16-8-winner-
+ round-of-16-7-winner
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760514@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260714T190000Z
+DTEND:20260714T204500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:四分之一决赛1胜者 - 四分之一决赛2胜者
+DESCRIPTION:状态：Scheduled\n开球：2026-07-15 03:00 UTC+8\n场馆：A
+ T&T Stadium\, Arlington\, Texas\, USA\nESPN：https://www.espn.com/soccer/
+ match/_/gameId/760514/quarterfinal-2-winner-quarterfinal-1-winner\nLogo：
+ https://worldcup.837859.xyz/logo.png\n来源为 ESPN 公开数据，每 30
+  分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760514/quarterfinal-2-winner
+ -quarterfinal-1-winner
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760515@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260715T190000Z
+DTEND:20260715T204500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:四分之一决赛3胜者 - 四分之一决赛4胜者
+DESCRIPTION:状态：Scheduled\n开球：2026-07-16 03:00 UTC+8\n场馆：M
+ ercedes-Benz Stadium\, Atlanta\, Georgia\, USA\nESPN：https://www.espn.co
+ m/soccer/match/_/gameId/760515/quarterfinal-4-winner-quarterfinal-3-winner
+ \nLogo：https://worldcup.837859.xyz/logo.png\n来源为 ESPN 公开数据
+ ，每 30 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760515/quarterfinal-4-winner
+ -quarterfinal-3-winner
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760516@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260718T210000Z
+DTEND:20260718T224500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:半决赛1负者 - 半决赛2负者
+DESCRIPTION:状态：Scheduled\n开球：2026-07-19 05:00 UTC+8\n场馆：H
+ ard Rock Stadium\, Miami Gardens\, Florida\, USA\nESPN：https://www.espn.
+ com/soccer/match/_/gameId/760516/semifinal-2-loser-semifinal-1-loser\nLogo
+ ：https://worldcup.837859.xyz/logo.png\n来源为 ESPN 公开数据，每
+  30 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760516/semifinal-2-loser-sem
+ ifinal-1-loser
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-760517@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART:20260719T190000Z
+DTEND:20260719T204500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:半决赛1胜者 - 半决赛2胜者
+DESCRIPTION:状态：Scheduled\n开球：2026-07-20 03:00 UTC+8\n场馆：M
+ etLife Stadium\, East Rutherford\, New Jersey\, USA\nESPN：https://www.es
+ pn.com/soccer/match/_/gameId/760517/semifinal-2-winner-semifinal-1-winner\
+ nLogo：https://worldcup.837859.xyz/logo.png\n来源为 ESPN 公开数据
+ ，每 30 分钟抓取一次。
+URL:https://www.espn.com/soccer/match/_/gameId/760517/semifinal-2-winner-se
+ mifinal-1-winner
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-stage-20260628@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260629
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:世界杯三十二强赛
+DESCRIPTION:2026 世界杯三十二强赛开始。
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-stage-20260704@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:世界杯十六强赛
+DESCRIPTION:2026 世界杯十六强赛开始。
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-stage-20260709@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260710
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:世界杯四分之一决赛
+DESCRIPTION:2026 世界杯四分之一决赛开始。
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-stage-20260714@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260715
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:世界杯半决赛
+DESCRIPTION:2026 世界杯半决赛开始。
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-stage-20260718@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:世界杯季军赛
+DESCRIPTION:2026 世界杯季军赛比赛日。
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-stage-20260719@worldcup-calendar
+DTSTAMP:20260612T052242Z
+CREATED:20260612T052242Z
+LAST-MODIFIED:20260612T052242Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+CLASS:PUBLIC
+SUMMARY:世界杯决赛
+DESCRIPTION:2026 世界杯决赛日。
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+END:VCALENDAR

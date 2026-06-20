@@ -1,0 +1,12 @@
+{
+  "generatedAt": "2026-01-01T00:00:00.000Z",
+  "links": [
+    {
+      "group": "常用服务",
+      "title": "示例服务",
+      "url": "http://localhost:58080",
+      "description": "本地服务入口示例，可用 npm run links:docker 生成自己的配置。",
+      "icon": ""
+    }
+  ]
+}
