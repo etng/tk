@@ -1,15 +1,16 @@
 # syntax=docker/dockerfile:1
 
-FROM golang:1.22-alpine AS build
+FROM --platform=$BUILDPLATFORM golang:1.22-alpine AS build
+
+ARG TARGETOS
+ARG TARGETARCH
 
 WORKDIR /src
 COPY go.mod ./
 COPY *.go ./
-RUN CGO_ENABLED=0 GOOS=linux go build -trimpath -ldflags="-s -w" -o /out/docker-service-bridge .
+RUN CGO_ENABLED=0 GOOS=$TARGETOS GOARCH=$TARGETARCH go build -trimpath -ldflags="-s -w" -o /out/docker-service-bridge .
 
-FROM alpine:3.20
-
-RUN apk add --no-cache ca-certificates docker-cli
+FROM docker:27-cli
 
 ENV TOOLDKIT_ALLOW_CONTAINER_BIND=1
 EXPOSE 17321
